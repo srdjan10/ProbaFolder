@@ -1,0 +1,19 @@
+.card {
+    background: #8ed62f;
+    box-shadow: 0 0px 8px rgba(14, 14, 211, 0.26);
+    border-radius: 5px;
+    text-align:center;
+  }
+  .card2 {
+    background: #70c02f;
+    box-shadow: 0 0px 8px rgba(238, 128, 19, 0.26);
+    border-radius: 5px;
+    text-align:center;
+  }
+  .card3 {
+    background: #249714;
+    box-shadow: 0 0px 8px rgba(228, 224, 219, 0.26);
+    border-radius: 5px;
+    text-align:center;
+    color: lavender;
+  }
