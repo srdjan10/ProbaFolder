@@ -2,7 +2,7 @@
 const Contact =()=>{
 return(
     <div>
-        <p>Ryzen web development Srdjan Ilic</p>
+        <p>Ryzen web development</p>
     </div>
 )
 }
